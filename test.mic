@@ -1,0 +1,6 @@
+// This is a test program
+int a=1;
+string msg =      "Hello world!";
+/*if (a            ==1) {
+    print msg
+}*/
